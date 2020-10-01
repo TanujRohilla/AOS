@@ -1,3 +1,5 @@
+// client ipc program
+
 #include<sys/types.h>
 #include<sys/ipc.h>
 #include<sys/msg.h>
